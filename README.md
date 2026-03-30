@@ -2,4 +2,4 @@
 
 ## CALCULADORA CIENTÍFICA EM C
 
--Através desse código consegui aprofundar meus conhecimentos na linguagem C, utilizando conceitos como: loops, funções e recursividade
+- Através desse código consegui aprofundar meus conhecimentos na linguagem C, utilizando conceitos como: loops, funções e recursividade
